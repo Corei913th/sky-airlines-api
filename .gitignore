@@ -50,6 +50,8 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+
+
 # Optional eslint cache
 .eslintcache
 
@@ -124,6 +126,12 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+
+# pnpm
+.pnpm-store/
+.pnpm-debug.log*
+.pnpm-lock.yaml
+
 
 # yarn v3
 .pnp.*
